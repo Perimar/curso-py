@@ -1,2 +1,3 @@
 numeros = [1, 2, 3]
-print(numeros)
+letras = ["a", "b", "c"]
+palabras = ["chanchito", "feliz"]
