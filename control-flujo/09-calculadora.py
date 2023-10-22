@@ -1,11 +1,11 @@
-print("Bienvenidos a la calculadora")
+print("Bienvenido a la calculadora")
 print("Para salir escribe salir")
 print("Las operaciones son suma, resta, multi y div")
 
 resultado = ""
 while True:
     if not resultado:
-        resultado = input("Ingrese número entero: ")
+        resultado = input("Ingresa número entero: ")
         if resultado.lower() == "salir":
             break
         resultado = int(resultado)
