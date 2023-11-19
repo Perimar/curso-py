@@ -1,4 +1,3 @@
-from usuario_impuestos import guardar, pagar_impuestos
+from usuarios import acciones
 
-guardar()
-pagar_impuestos()
+acciones.guardar()
