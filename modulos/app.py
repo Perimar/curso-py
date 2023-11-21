@@ -1,3 +1,3 @@
-from usuarios import acciones
+from usuarios.acciones import guardar
 
-acciones.guardar()
+guardar()
